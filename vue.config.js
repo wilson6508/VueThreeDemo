@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: '/VueThreeDemo/'
+    publicPath: '/VueThreeDemo/',
+    // lintOnSave: false,
 }
